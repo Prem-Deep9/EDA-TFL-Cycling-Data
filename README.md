@@ -8,6 +8,7 @@ This project provides an end-to-end exploratory data analysis (EDA) and time ser
 
 - **cyclic_data_analysis.ipynb**: Main notebook for EDA, data cleaning, visualization, and time series modeling.
 - **file-scrapper-selenium.py**: Script to scrape and download raw CSV data files from the TfL cycling data portal.
+- **TFL Cyclicing presentation.pdf**: A small presentation on insights that help understand customer base and operational problems with short term bike rentals in London.
 - **README.md**: Project documentation (this file).
 
 ---
